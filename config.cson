@@ -1,0 +1,63 @@
+"*":
+  "atom-ternjs":
+    lint: true
+  "circle-ci":
+    apiToken: "5f641d8f516ad7c7919877d6169a5507fd39b704"
+    iconColor: true
+  core:
+    themes: [
+      "dracula-ui"
+      "dracula-theme"
+    ]
+  editor:
+    fontFamily: "PragmataPro"
+    fontSize: 12
+    invisibles: {}
+    preferredLineLength: 120
+    showIndentGuide: true
+    tabType: "soft"
+  "exception-reporting":
+    userId: "7b9fd69c-010a-6957-0dab-be75d80837d5"
+  "git-diff":
+    showIconsInEditorGutter: true
+  "git-plus": {}
+  linter:
+    ignoreVCSIgnoredFiles: false
+    showErrorTabLine: true
+  "linter-eslint": {}
+  "linter-stylint":
+    onlyRunWhenConfig: true
+  "markdown-preview":
+    useGitHubStyle: true
+  minimap:
+    plugins:
+      "git-diff": false
+      "git-diffDecorationsZIndex": 0
+      "highlight-selected": true
+      linter: true
+      linterDecorationsZIndex: 0
+  pigments:
+    extendAutocompleteToColorValue: true
+    extendAutocompleteToVariables: true
+  "status-bar": {}
+  "trailing-spaces":
+    enableForCursorLines: true
+    enableForIndentation: true
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false
+".3.actionscript.source":
+  editor:
+    preferredLineLength: 120
+".asdoc.html.text":
+  editor:
+    preferredLineLength: 120
+".diff.source":
+  editor:
+    preferredLineLength: 120
+".flex-config.text.xml":
+  editor:
+    preferredLineLength: 120
